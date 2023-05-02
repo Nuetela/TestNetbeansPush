@@ -26,7 +26,7 @@ public class ConectorDB {
         } catch (SQLException ex) {
             System.out.println(ex);
         }
-                    
+        //test para git//            
                    
     }
 }
